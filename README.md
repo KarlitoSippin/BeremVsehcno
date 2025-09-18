@@ -1,2 +1,2 @@
 # BeremVsehcno
-Music&amp;Culture
+Music Culture
