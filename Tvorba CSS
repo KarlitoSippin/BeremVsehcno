@@ -2,3 +2,7 @@
 padding: 15;
 margin: 15;
 }
+
+footer{
+font-size: 5px;
+}
