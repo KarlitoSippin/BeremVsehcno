@@ -1,0 +1,4 @@
+*{
+padding: 15;
+margin: 15;
+}
